@@ -1,1 +1,1 @@
-# Lanndingpage for mageunconferences
+# Landing page for mageunconferences
